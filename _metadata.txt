@@ -1,0 +1,21 @@
+generated-with: Easy Java/Javascript Simulations, version 6.01, build 201013. Visit http://www.um.es/fem/Ejs
+title: Movimento Circular Uniforme
+logo-image: figs/mcu1_pic.png
+author: Humberto Carmona
+copyright: Humberto Carmona, H. Carmona
+preferred-width: 800
+preferred-height: 600
+author-image: figs/HAC_logo.png
+source: mcu_ohs.ejss
+main-script: 
+main-simulation: mcu_ohs_Simulation.xhtml
+available-languages: 
+html-description: mcu_ohs_Intro_1.html
+html-contents: mcu_ohs_Contents.xhtml
+html-main: mcu_ohs.xhtml
+page-title: Introdução
+page-index: mcu_ohs_Intro_1.html
+page-title: Movimento Circular Uniforme
+page-index: mcu_ohs_Simulation.xhtml
+resource: figs/HAC_logo.png
+resource: figs/mcu1_pic.png
